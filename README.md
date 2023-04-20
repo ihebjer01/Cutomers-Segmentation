@@ -1,1 +1,1 @@
-# Cutomers-Segmentation
+# Market-Segmentation
